@@ -1,4 +1,4 @@
-opencv4nodejs-prebuilt
+opencv4nodejs-autobuild
 =============
 
-**opencv4nodejs-prebuilt ships opinionated, pre-compiled bindings for OpenCV**
+**This project is WIP. Do not install**
